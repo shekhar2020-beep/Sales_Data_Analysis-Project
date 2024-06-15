@@ -23,4 +23,4 @@ Use the following command to install:
 Now start with the code 
 # Thank You 
 
-# !pip install Seaborn
+
